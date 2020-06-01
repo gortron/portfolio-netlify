@@ -6,3 +6,5 @@ description: This is my second post.
 # I'm wondering...
 
 > Will this make a .md file?
+
+![self portrait](/img/milan_selfportrait.jpg)
